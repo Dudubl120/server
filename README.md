@@ -1,2 +1,2 @@
 # server
-yes, that's a minecraft server
+using to storage a minecraft server arquives
